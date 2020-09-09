@@ -1,0 +1,13 @@
+.texto {
+    letter-spacing: .2rem;
+    font-size: 16pt;
+}
+
+a {
+    cursor: pointer;
+}
+
+.container-fluid {
+    background-image: linear-gradient(100deg, #4bf9ff 0, #53e4ff 25%, #58ceec 50%, #5bb9d5 75%, #5ca5bf 100%);
+}
+    
